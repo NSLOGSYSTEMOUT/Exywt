@@ -1,0 +1,10 @@
+Wed , 17 Jan 2018 16:09:51 logging模块.py[line:18] DEBUG debug logging
+Wed , 17 Jan 2018 16:09:51 logging模块.py[line:19] INFO info logging
+Wed , 17 Jan 2018 16:09:51 logging模块.py[line:21] WARNING warning logging
+Wed , 17 Jan 2018 16:09:51 logging模块.py[line:22] ERROR error logging
+Wed , 17 Jan 2018 16:09:51 logging模块.py[line:23] CRITICAL critical logging
+Wed , 17 Jan 2018 16:19:30 logging模块.py[line:18] DEBUG debug logging1
+Wed , 17 Jan 2018 16:19:30 logging模块.py[line:19] INFO info logging2
+Wed , 17 Jan 2018 16:19:30 logging模块.py[line:21] WARNING warning logging
+Wed , 17 Jan 2018 16:19:30 logging模块.py[line:22] ERROR error logging
+Wed , 17 Jan 2018 16:19:30 logging模块.py[line:23] CRITICAL critical logging
